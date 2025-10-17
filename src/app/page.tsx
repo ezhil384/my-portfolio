@@ -6,5 +6,5 @@ export default function Home() {
       </h1>
       <p className="text-gray-700 mt-4">Next.js + Tailwind + Vercel setup successful.</p>
     </main>
-  )
+  );
 }
